@@ -8,7 +8,7 @@ The goal of this task was to **create and use SQL Views** in a relational databa
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * **MySQL Workbench** – For database design, query execution, and view creation.
 * **MySQL Server** – To store and process the data.
@@ -18,6 +18,7 @@ The goal of this task was to **create and use SQL Views** in a relational databa
 ## Database Structure
 
 **Database Name:** `ShopDB`
+
 **Tables:**
 
 1. **Customers** – Stores customer details.
@@ -27,7 +28,7 @@ The goal of this task was to **create and use SQL Views** in a relational databa
 
 ---
 
-## 📌 Implemented Views
+## Implemented Views
 
 ### 1. `customer_order_details`
 
