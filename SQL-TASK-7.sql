@@ -79,7 +79,7 @@ SELECT
     c.CustomerID,
     c.FirstName,
     o.OrderID,
-    o.OrderData,  -- ✅ Corrected here
+    o.OrderData,  
     p.ProductName,
     p.Price,
     od.Quantity,
